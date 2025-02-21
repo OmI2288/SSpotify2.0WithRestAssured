@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world!");
 
 
-        System.out.println("Sample Code To check");
+        System.out.println("Editing the changes");
     }
 }
