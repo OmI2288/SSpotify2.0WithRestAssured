@@ -1,1 +1,1 @@
-# SSpotify2.0WithRestAssured
+# Spotify2.0WithRestAssured
